@@ -1,0 +1,64 @@
+ <mj-raw>
+  <!-- Footer -->
+</mj-raw>
+ 
+ <mj-section> 
+        <mj-column> 
+            <mj-text align="center" color="#FFFFFF" font-size="14px"> 
+                If you have any questions, please email us at 
+                customer.success@unlayer.com or visit our FAQS, you can also chat with a reel live 
+                human during our operating hours. They can answer questions about your account. 
+                They can answer questions about your account
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="0"> 
+        <mj-column> 
+            <mj-divider border-width="1px" border-style="solid" border-color="#FFFFFF" />
+        </mj-column> 
+    </mj-section> 
+
+    <mj-wrapper> 
+        <mj-section padding="0"> 
+            <mj-group css-class="icons-size"> 
+                <mj-column> 
+                    <mj-image src="http://127.0.0.1:5500/assets/twitter-icon.png" width="38px" height="38px" padding="0 5px"/>
+                </mj-column>
+                <mj-column> 
+                    <mj-image src="http://127.0.0.1:5500/assets/facebook-icones.png" width="38px" height="38px" padding="0 5px"/>
+                </mj-column>
+                <mj-column> 
+                    <mj-image src="http://127.0.0.1:5500/assets/pinterest-logo-emblem-png-11.png" width="38px" height="38px" padding="0 5px"/>
+                </mj-column>
+                <mj-column> 
+                    <mj-image src="http://127.0.0.1:5500/assets/linkedin-icon.png" width="38px" height="38px" padding="0 5px"/>
+                </mj-column>
+            </mj-group> 
+        </mj-section> 
+    </mj-wrapper> 
+
+    <mj-section padding="0"> 
+            <mj-column> 
+                <mj-navbar base-url="https://store.nba.com/">
+                    <mj-navbar-link href="/" color="#ffffff">Home <span style= "padding: 0 40px 0 40px;">|</span> </mj-navbar-link>
+                    <mj-navbar-link href="/men" color="#ffffff">Page <span style= "padding: 0 40px 0 40px;">|</span></mj-navbar-link>
+                    <mj-navbar-link href="/women" color="#ffffff">About Us <span style= "padding: 0 40px 0 40px;">|</span></mj-navbar-link>
+                    <mj-navbar-link href="/kids" color="#ffffff">Contact Us </mj-navbar-link>
+                </mj-navbar>
+            </mj-column> 
+    </mj-section>
+
+    <mj-wrapper> 
+        <mj-section padding="0" > 
+            <mj-column> 
+                <mj-text padding="0" align="right"> <a href="#" class="footer-links"> Privacy Policy </a> </mj-text>
+            </mj-column> 
+            <mj-column> 
+                <mj-text padding="0" align="center"> <a href="#" class="footer-links"> Support </a> </mj-text>
+            </mj-column> 
+            <mj-column> 
+                <mj-text padding="0" align="left"> <a href="#" class="footer-links"> Terms &amp; Conditions </a> </mj-text>
+            </mj-column> 
+        </mj-section> 
+    </mj-wrapper>

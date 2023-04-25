@@ -1,0 +1,74 @@
+<mjml>
+  <mj-head>
+    <mj-breakpoint width="480px" /> 
+
+    <mj-style>
+        * {
+            box-sizing: border-box;
+        }
+        .footer-links{
+            text-decoration: underline;
+            color: #FFFFFF;
+        }
+        .footer-links:hover{
+            color: #c15f38;
+            text-decoration: none;
+        }
+        .button-mobile-align{
+            text-align: left;
+        }
+
+
+
+        @media (max-width:480px) {
+            .mobile-body-padding1 table tbody tr td{
+                padding-right: 0 !important; 
+            }
+            .mobile-body-padding2 table tbody tr td{
+                padding-left: 0 !important; 
+            }
+            .mobile-body-padding3 table tbody tr td{
+                padding-right: 0 !important; 
+            }
+            .mobile-body-padding4 table tbody tr td{
+                padding-left: 0 !important; 
+            }
+            .mobile-button-padding{
+                padding-bottom: 40px !important;
+            }
+        }
+    </mj-style>
+
+    <mj-style inline="inline">
+        .icons-size{
+            max-width: 280px; 
+            padding-top: 10px; 
+        }
+        .top-section{
+            background-image: url("http://127.0.0.1:5500/assets/TopSectionBlankPNG.png");
+            background-size: cover; 
+            background-repeat:"no-repeat";
+        }
+        .text-position{
+            padding-top: 340px; 
+        }
+        .top-section2{
+            background-image: url("http://127.0.0.1:5500/assets/TopSectionBlankPNG.png");
+            height: 200px;
+        }
+        
+
+
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body background-color="#34142c">
+
+    <mj-include path="./components/topsection.mjml" />
+
+    <mj-include path="./components/body.mjml" />
+
+    <mj-include path="./components/footer.mjml" />
+    
+  </mj-body>
