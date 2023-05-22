@@ -23,16 +23,16 @@
         <mj-section padding="0"> 
             <mj-group css-class="icons-size"> 
                 <mj-column> 
-                    <mj-image src="http://127.0.0.1:5500/assets/twitter-icon.png" width="38px" height="38px" padding="0 5px"/>
+                    <mj-image src="https://muhammadarif2113.github.io/airline-promo-email/assets/twitter-icon.png" width="38px" height="38px" padding="0 5px"/>
                 </mj-column>
                 <mj-column> 
-                    <mj-image src="http://127.0.0.1:5500/assets/facebook-icones.png" width="38px" height="38px" padding="0 5px"/>
+                    <mj-image src="https://muhammadarif2113.github.io/airline-promo-email/assets/facebook-icones.png" width="38px" height="38px" padding="0 5px"/>
                 </mj-column>
                 <mj-column> 
-                    <mj-image src="http://127.0.0.1:5500/assets/pinterest-logo-emblem-png-11.png" width="38px" height="38px" padding="0 5px"/>
+                    <mj-image src="https://muhammadarif2113.github.io/airline-promo-email/assets/pinterest-logo-emblem-png-11.png" width="38px" height="38px" padding="0 5px"/>
                 </mj-column>
                 <mj-column> 
-                    <mj-image src="http://127.0.0.1:5500/assets/linkedin-icon.png" width="38px" height="38px" padding="0 5px"/>
+                    <mj-image src="https://muhammadarif2113.github.io/airline-promo-email/assets/linkedin-icon.png" width="38px" height="38px" padding="0 5px"/>
                 </mj-column>
             </mj-group> 
         </mj-section> 

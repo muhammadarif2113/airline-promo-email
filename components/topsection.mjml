@@ -2,7 +2,7 @@
   <!-- Top Hero -->
 </mj-raw>
 <mj-wrapper> 
-    <mj-hero mode="fixed-height" background-url="http://127.0.0.1:5500/assets/TopSectionBlankPNG.png" height="800px">
+    <mj-hero mode="fixed-height" background-url="https://muhammadarif2113.github.io/airline-promo-email/assets/TopSectionBlankPNG.png" height="800px">
       <mj-button padding-top="90px" href="https://mjml.io/" align="center" background-color="#ba372a" font-size="15px" border-radius="5px" padding="0"> 
         Fly With Us
       </mj-button> 
@@ -18,7 +18,7 @@
       </mj-text> 
 
       <mj-raw> 
-        <table align="center"><tbody><tr><td><img src="https://gen.sendtric.com/countdown/6odk6zguks" style="display: block; width:300px; padding:10px 0 20px 0;"/></td></tr></tbody></table>            
+        <table align="center"><tbody><tr><td><img src="https://gen.sendtric.com/countdown/5ra0m65x67" style="display: block; width:300px; padding:10px 0 20px 0;" /></td></tr></tbody></table>
       </mj-raw> 
 
       <mj-button href="https://mjml.io/" align="center" background-color="#ba372a" font-size="24px" border-radius="20px" letter-spacing="5px" padding="0">

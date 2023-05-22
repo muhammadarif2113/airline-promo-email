@@ -45,7 +45,7 @@
             padding-top: 10px; 
         }
         .top-section{
-            background-image: url("http://127.0.0.1:5500/assets/TopSectionBlankPNG.png");
+            background-image: url('https://muhammadarif2113.github.io/airline-promo-email/assets/TopSectionBlankPNG.png'); 
             background-size: cover; 
             background-repeat:"no-repeat";
         }
@@ -54,6 +54,7 @@
         }
         .top-section2{
             background-image: url("http://127.0.0.1:5500/assets/TopSectionBlankPNG.png");
+            background-image: url('https://muhammadarif2113.github.io/airline-promo-email/assets/TopSectionBlankPNG.png'); 
             height: 200px;
         }
         
