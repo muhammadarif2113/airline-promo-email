@@ -87,7 +87,7 @@
     <mj-section padding="10px 10px 20px 10px"> 
         <mj-column css-class="mobile-body-padding3" padding="0 5px 0 0"> 
             <mj-raw> 
-                <img width="100%" src="https://muhammadarif2113.github.io/airline-promo-email/santafe.jpg" border-radius="5px"/>
+                <img width="100%" src="https://muhammadarif2113.github.io/airline-promo-email/assets/santafe.jpg" border-radius="5px"/>
             </mj-raw> 
 
             <mj-table padding="10px 0 0 0"> 
