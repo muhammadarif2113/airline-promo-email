@@ -4,11 +4,10 @@
  
  <mj-section> 
         <mj-column> 
-            <mj-text align="center" color="#FFFFFF" font-size="14px"> 
+            <mj-text align="center" color="#CFCFCF" font-size="14px" line-height="20px"> 
                 If you have any questions, please email us at 
                 customer.success@unlayer.com or visit our FAQS, you can also chat with a reel live 
                 human during our operating hours. They can answer questions about your account. 
-                They can answer questions about your account
             </mj-text>
         </mj-column>
     </mj-section>
@@ -38,19 +37,41 @@
         </mj-section> 
     </mj-wrapper> 
 
-    <mj-section padding="0"> 
+    <!-- <mj-section padding="0"> 
+        <mj-group css-class="footer-nav"> 
             <mj-column> 
-                <mj-navbar base-url="https://store.nba.com/">
+                <mj-navbar base-url="/">
                     <mj-navbar-link href="/" color="#ffffff">Home <span style= "padding: 0 40px 0 40px;">|</span> </mj-navbar-link>
                     <mj-navbar-link href="/men" color="#ffffff">Page <span style= "padding: 0 40px 0 40px;">|</span></mj-navbar-link>
                     <mj-navbar-link href="/women" color="#ffffff">About Us <span style= "padding: 0 40px 0 40px;">|</span></mj-navbar-link>
                     <mj-navbar-link href="/kids" color="#ffffff">Contact Us </mj-navbar-link>
                 </mj-navbar>
             </mj-column> 
+        </mj-group> 
+
+    </mj-section> -->
+
+    <mj-section padding="0"> 
+        <mj-group> 
+            <mj-column padding="0"> 
+                    <mj-text color="#ffffff"><a class="footer-nav" href="">HOME</a></mj-text>
+            </mj-column> 
+            <mj-column padding="0"> 
+                    <mj-text color="#ffffff"><a class="footer-nav" href="">PAGE</a></mj-text>
+            </mj-column> 
+            <mj-column padding="0"> 
+                    <mj-text color="#ffffff"><a class="footer-nav" href="">ABOUT</a></mj-text>
+            </mj-column> 
+            <mj-column padding="0"> 
+                    <mj-text color="#ffffff"><a class="footer-nav" href="">CONTACT</a></mj-text>
+            </mj-column> 
+
+        </mj-group> 
+
     </mj-section>
 
-    <mj-wrapper> 
-        <mj-section padding="0" > 
+    <mj-section padding="30px 40px 40px 0"> 
+        <mj-group>
             <mj-column> 
                 <mj-text padding="0" align="right"> <a href="#" class="footer-links"> Privacy Policy </a> </mj-text>
             </mj-column> 
@@ -60,5 +81,5 @@
             <mj-column> 
                 <mj-text padding="0" align="left"> <a href="#" class="footer-links"> Terms &amp; Conditions </a> </mj-text>
             </mj-column> 
-        </mj-section> 
-    </mj-wrapper>
+        </mj-group>
+    </mj-section> 

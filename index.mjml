@@ -8,7 +8,7 @@
         }
         .footer-links{
             text-decoration: underline;
-            color: #FFFFFF;
+            color:#B8B7B7;
         }
         .footer-links:hover{
             color: #c15f38;
@@ -55,6 +55,14 @@
         .top-section2{
             background-image: url('https://muhammadarif2113.github.io/airline-promo-email/assets/TopSectionBlankPNG.png'); 
             height: 200px;
+        }
+        .footer-nav{
+            text-decoration: none;
+            color: #FFFFFF;
+            word-break: keep-all;
+        }
+        .footer-links{
+            word-break: keep-all;
         }
         
 
