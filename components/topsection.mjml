@@ -6,19 +6,27 @@
       <mj-button padding-top="90px" href="https://mjml.io/" align="center" background-color="#ba372a" font-size="15px" border-radius="5px" padding="0"> 
         Fly With Us
       </mj-button> 
-      <mj-text padding-top="270px" color="#000000" font-size="30px"  align="center" font-family="Franklin Gothic" font-weight="bold"> 
+      <mj-text css-class="text-padding" padding-top="250px" color="#000000" font-size="30px"  align="center" font-family="Franklin Gothic" font-weight="bold"> 
         Limited Time Only! 
       </mj-text>
                 
-      <mj-text css-class="phone-text-width"color="#000000" font-size="13px" font-family="Arial" align="center" padding="10px 30px">
-        Ready to visit your dream destination? Here are the <br> 
-        last-minute flight deals with the lowest prices.<br>
-        Act fast - they all depart within the next <br>
-        three months, and prices can change.
+      <mj-text css-class="phone-text-width" line-height="18px" color="#000000" font-size="15px" font-family="Arial" align="center" padding="10px 150px">
+        Ready to visit your dream destination? Here are 
+        the last-minute flight deals with the lowest
+        prices. Act fast - they all depart within the
+        next three months, and prices can change.
       </mj-text> 
 
       <mj-raw> 
-        <table align="center"><tbody><tr><td><img src="https://gen.sendtric.com/countdown/rygoqjrb0q" style="display: block; width:300px; padding:10px 0 20px 0;" /></td></tr></tbody></table>
+        <table align="center">
+          <tbody>
+            <tr>
+              <td>
+                <img src="https://gen.sendtric.com/countdown/mc21mt562h" style="display: block; width:300px; padding:10px 0 20px 0;" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </mj-raw> 
 
       <mj-button href="https://mjml.io/" align="center" background-color="#ba372a" font-size="24px" border-radius="20px" letter-spacing="5px" padding="0">
@@ -34,3 +42,5 @@
         </mj-text>
     </mj-hero>
 </mj-wrapper>
+
+

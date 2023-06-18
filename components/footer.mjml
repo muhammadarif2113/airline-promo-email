@@ -37,37 +37,40 @@
         </mj-section> 
     </mj-wrapper> 
 
-    <!-- <mj-section padding="0"> 
-        <mj-group css-class="footer-nav"> 
-            <mj-column> 
-                <mj-navbar base-url="/">
-                    <mj-navbar-link href="/" color="#ffffff">Home <span style= "padding: 0 40px 0 40px;">|</span> </mj-navbar-link>
-                    <mj-navbar-link href="/men" color="#ffffff">Page <span style= "padding: 0 40px 0 40px;">|</span></mj-navbar-link>
-                    <mj-navbar-link href="/women" color="#ffffff">About Us <span style= "padding: 0 40px 0 40px;">|</span></mj-navbar-link>
-                    <mj-navbar-link href="/kids" color="#ffffff">Contact Us </mj-navbar-link>
-                </mj-navbar>
-            </mj-column> 
-        </mj-group> 
+    <mj-section class="footer-sections" padding="0"> 
+        <mj-column padding="0"> 
+                <mj-text color="#ffffff"><a class="footer-nav" href="">HOME</a></mj-text>
+        </mj-column> 
+        <mj-column padding="0"> 
+                <mj-text color="#ffffff"><a class="footer-nav" href="">PAGE</a></mj-text>
+        </mj-column> 
+        <mj-column padding="0"> 
+                <mj-text color="#ffffff"><a class="footer-nav" href="">ABOUT</a></mj-text>
+        </mj-column> 
+        <mj-column padding="0"> 
+                <mj-text color="#ffffff"><a class="footer-nav" href="">CONTACT</a></mj-text>
+        </mj-column> 
+        <mj-column padding="0"> 
+                <mj-text color="#ffffff"><a class="footer-nav" href="">COMMUNITY</a></mj-text>
+        </mj-column> 
+    </mj-section>
 
-    </mj-section> -->
+    <mj-section>
+        <mj-column>
+            <mj-text padding="10px 0 0 0" align="center" color="#B8B7B7" line-height="20px">
+                Getaway Airlines, Inc · 610 Newport Center<br>
+                Drive · Newport Beach, CA 92660 · USA<br>
+                © 2023 Getaway Airlines, Inc.
+            </mj-text>
+        </mj-column> 
+    </mj-section>
 
-    <mj-section padding="0"> 
-        <mj-group> 
-            <mj-column padding="0"> 
-                    <mj-text color="#ffffff"><a class="footer-nav" href="">HOME</a></mj-text>
-            </mj-column> 
-            <mj-column padding="0"> 
-                    <mj-text color="#ffffff"><a class="footer-nav" href="">PAGE</a></mj-text>
-            </mj-column> 
-            <mj-column padding="0"> 
-                    <mj-text color="#ffffff"><a class="footer-nav" href="">ABOUT</a></mj-text>
-            </mj-column> 
-            <mj-column padding="0"> 
-                    <mj-text color="#ffffff"><a class="footer-nav" href="">CONTACT</a></mj-text>
-            </mj-column> 
-
-        </mj-group> 
-
+    <mj-section padding="0">
+        <mj-column>
+            <mj-text align="center" color="#B8B7B7">
+                <u>To unsubscribe from marketing emails, click here.</u>
+            </mj-text>
+        </mj-column> 
     </mj-section>
 
     <mj-section padding="30px 40px 40px 0"> 

@@ -9,80 +9,78 @@
         </mj-column> 
 </mj-section> 
 
-<mj-section padding="10px 10px 20px 10px" > 
-        <mj-column css-class="mobile-body-padding1" padding="0 5px 0 0"> 
-            <mj-raw> 
-                <img width="100%" src="https://muhammadarif2113.github.io/airline-promo-email/assets/wyoming.jpg" border-radius="30px"/>
-            </mj-raw> 
-            <mj-table padding="20px 0 0 0"> 
-                <tr>
-                    <td> 
-                        <span style="font-size:24px; color:#FFFFFF; font-weight:bold;"> Jackson Hole </span> 
-                        <!-- <img style="margin-left: 230px; margin-bottom: 10px; width: 44px; height: 44px;" src="http://127.0.0.1:5500/assets/caldendar-icon.png"/> -->
-                    </td>
-                </tr>
+<mj-section padding="10px 10px 20px 10px"> 
+    <mj-column css-class="mobile-body-padding1" padding="0 5px 0 0"> 
+        <mj-raw> 
+            <img width="100%" src="https://muhammadarif2113.github.io/airline-promo-email/assets/wyoming.jpg" border-radius="30px"/>
+        </mj-raw> 
+        <mj-table padding="20px 0 0 0"> 
+            <tr>
+                <td> 
+                    <span style="font-size:24px; color:#FFFFFF; font-weight:bold;"> Jackson Hole </span> 
+                </td>
+            </tr>
 
-                <tr> 
-                    <td style="padding: 10px 0 0 0;"> 
-                        <img style="margin-left: 2px; margin-right: 10px;" src="https://muhammadarif2113.github.io/airline-promo-email/assets/airplane-icon2.png"/>
-                        <span style="color:white; font-size:20px;"> Wyoming </span> 
-                    </td> 
-                </tr> 
+            <tr> 
+                <td style="padding: 10px 0 0 0;"> 
+                    <img style="margin-left: 2px; margin-right: 10px;" src="https://muhammadarif2113.github.io/airline-promo-email/assets/airplane-icon2.png"/>
+                    <span style="color:white; font-size:20px;"> Wyoming </span> 
+                </td> 
+            </tr> 
 
-                <tr>
-                    <td style="padding-top: 5px; color: #FFFFFF; font-size: 16px;">
-                        Wildlife viewing, national parks, historic, 
-                        western town and the best skiing around 
-                        make Jackson Hole the ideal location for 
-                        your family ski vacation.  
-                    </td>
-                </tr>
+            <tr>
+                <td style="padding-top: 5px; color: #FFFFFF; font-size: 16px;">
+                    Wildlife viewing, national parks, historic, 
+                    western town and the best skiing around 
+                    make Jackson Hole the ideal location for 
+                    your family ski vacation.  
+                </td>
+            </tr>
 
-            </mj-table>
-            <mj-button css-class="mobile-button-padding" padding="10px 0 10px 0" align="left" font-size="16px" font-family=“Arial” background-color="#c15f38" color="white" border-radius="5px">
-                Book Now
-            </mj-button> 
-            
-        </mj-column> 
+        </mj-table>
+        <mj-button css-class="mobile-button-padding" padding="10px 0 10px 0" align="left" font-size="16px" font-family=“Arial” background-color="#c15f38" color="white" border-radius="5px">
+            Book Now
+        </mj-button> 
+        
+    </mj-column> 
 
-        <mj-column css-class="mobile-body-padding2" padding="0 0 0 5px"> 
-            <mj-raw> 
-                <img width="100%" src="https://muhammadarif2113.github.io/airline-promo-email/assets/adirondackny.jpg" border-radius="5px"/>
-            </mj-raw> 
+    <mj-column css-class="mobile-body-padding2" padding="0 0 0 5px"> 
+        <mj-raw> 
+            <img width="100%" src="https://muhammadarif2113.github.io/airline-promo-email/assets/adirondackny.jpg" border-radius="5px"/>
+        </mj-raw> 
 
-            <mj-table padding="10px 0 0 0"> 
-                <tr>
-                    <td> 
-                        <span style="font-size:24px; color:#FFFFFF; font-weight:bold;"> The Adirondacks </span> 
+        <mj-table padding="10px 0 0 0"> 
+            <tr>
+                <td> 
+                    <span style="font-size:24px; color:#FFFFFF; font-weight:bold;"> The Adirondacks </span> 
 
-                        <!-- <img style="margin-left: 230px; margin-left: 230px; margin-bottom: 10px; width: 44px; height: 44px;" src="http://127.0.0.1:5500/assets/caldendar-icon.png"/> -->
-                    </td>
-                </tr>
+                </td>
+            </tr>
 
-                <tr> 
-                    <td style="padding: 10px 0 0 0;"> 
-                        <img style="margin-left: 2px; margin-right: 10px;" src="https://muhammadarif2113.github.io/airline-promo-email/assets/airplane-icon2.png"/>
-                        <span style="color:white; font-size:20px;"> New York </span> 
-                    </td> 
-                </tr> 
+            <tr> 
+                <td style="padding: 10px 0 0 0;"> 
+                    <img style="margin-left: 2px; margin-right: 10px;" src="https://muhammadarif2113.github.io/airline-promo-email/assets/airplane-icon2.png"/>
+                    <span style="color:white; font-size:20px;"> New York </span> 
+                </td> 
+            </tr> 
 
-                <tr>
-                    <td style="padding-top: 5px; color: #FFFFFF; font-size: 16px">
-                        Explore the hiking trails of the famed 
-                        Adirondack High Peaks. Choose your own 
-                        camping adventure under the stars. Unwind 
-                        on the pristine lakes of an Adirondack 
-                        paradise.  
-                    </td>
-                </tr>
-            </mj-table>
-            <mj-button css-class="button-mobile-align" padding="10px 0 10px 0" font-size="16px" font-family=“Arial” background-color="#c15f38" color="white" border-radius="5px">
-                Book Now
-            </mj-button>
+            <tr>
+                <td style="padding-top: 5px; color: #FFFFFF; font-size: 16px">
+                    Explore the hiking trails of the famed 
+                    Adirondack High Peaks. Choose your own 
+                    camping adventure under the stars. Unwind 
+                    on the pristine lakes of an Adirondack 
+                    paradise.  
+                </td>
+            </tr>
+        </mj-table>
+        <mj-button css-class="button-mobile-align" padding="10px 0 10px 0" font-size="16px" font-family=“Arial” background-color="#c15f38" color="white" border-radius="5px">
+            Book Now
+        </mj-button>
 
-        </mj-column> 
+    </mj-column> 
 
-    </mj-section> 
+</mj-section> 
 
     <mj-section padding="10px 10px 20px 10px"> 
         <mj-column css-class="mobile-body-padding3" padding="0 5px 0 0"> 
@@ -94,7 +92,6 @@
                 <tr>
                     <td> 
                         <span style="font-size:24px; color:#FFFFFF; font-weight:bold;"> Santa Fe </span> 
-                        <!-- <img style="margin-left: 230px; margin-bottom: 10px; width: 44px; height: 44px;" src="http://127.0.0.1:5500/assets/caldendar-icon.png"/> -->
                     </td>
                 </tr>
 
@@ -131,7 +128,6 @@
                 <tr>
                     <td> 
                         <span style="font-size:24px; color:#FFFFFF; font-weight:bold;"> Seattle </span> 
-                        <!-- <img style="margin-left: 230px; margin-bottom: 10px; width: 44px; height: 44px;" src="http://127.0.0.1:5500/assets/caldendar-icon.png"/> -->
                     </td>
                 </tr>
 
